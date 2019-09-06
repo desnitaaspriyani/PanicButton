@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    KELAS TRPL B
                 </div>
 
                 <div class="links">
